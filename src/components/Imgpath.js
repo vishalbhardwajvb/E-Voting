@@ -1,0 +1,1 @@
+export const ImgPath= process.env.PUBLIC_URL+"/assets/img"
