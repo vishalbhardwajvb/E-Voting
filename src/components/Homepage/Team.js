@@ -10,7 +10,7 @@ const Team=()=>(
                     <h3 class="section-subheading text-muted">Things we Do Together...</h3>
                 </div>
                 <div class="row">
-                    <div  class="col-lg-4">
+                    <div  class="col-lg-3">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/bhardwaj.jpg" alt="" />
                             <h4>Abhimanyu Bhardwdaj</h4>
@@ -20,7 +20,7 @@ const Team=()=>(
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/Goyal.png" alt="" />
                             <h4>Antriksh Goyal</h4>
@@ -30,7 +30,7 @@ const Team=()=>(
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/gupta.jpg" alt="" />
                             <h4>Aditya Gupta</h4>
@@ -41,7 +41,7 @@ const Team=()=>(
                         </div>
                     </div>
 
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/kumar.jpg" alt="" />
                             <h4>Abhishek Kumar</h4>
